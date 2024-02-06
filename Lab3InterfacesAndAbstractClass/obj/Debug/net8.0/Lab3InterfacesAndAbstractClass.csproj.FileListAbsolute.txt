@@ -1,0 +1,14 @@
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\bin\Debug\net8.0\Lab3InterfacesAndAbstractClass.exe
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\bin\Debug\net8.0\Lab3InterfacesAndAbstractClass.deps.json
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\bin\Debug\net8.0\Lab3InterfacesAndAbstractClass.runtimeconfig.json
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\bin\Debug\net8.0\Lab3InterfacesAndAbstractClass.dll
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\bin\Debug\net8.0\Lab3InterfacesAndAbstractClass.pdb
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\obj\Debug\net8.0\Lab3InterfacesAndAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\obj\Debug\net8.0\Lab3InterfacesAndAbstractClass.AssemblyInfoInputs.cache
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\obj\Debug\net8.0\Lab3InterfacesAndAbstractClass.AssemblyInfo.cs
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\obj\Debug\net8.0\Lab3InterfacesAndAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\obj\Debug\net8.0\Lab3InterfacesAndAbstractClass.dll
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\obj\Debug\net8.0\refint\Lab3InterfacesAndAbstractClass.dll
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\obj\Debug\net8.0\Lab3InterfacesAndAbstractClass.pdb
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\obj\Debug\net8.0\Lab3InterfacesAndAbstractClass.genruntimeconfig.cache
+C:\Users\pjurg\source\repos\Lab3InterfacesAndAbstractClass\Lab3InterfacesAndAbstractClass\obj\Debug\net8.0\ref\Lab3InterfacesAndAbstractClass.dll
